@@ -1,9 +1,10 @@
 # css规范 
 ######  本规范遵循BEM规范，参考地址：https://en.bem.info/methodology/quick-start/
 ######  示例代码来自腾讯weiui开源项目
-以下做BEM规范的概要说明：
 
 - 技术支持 allen.sun
+
+以下做BEM规范的概要说明：
 
 
 #### BEM
